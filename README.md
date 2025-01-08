@@ -3,10 +3,10 @@
 
 This project uses the **@aws-cdk/cli-lib-alpha** module to programmatically interact with AWS CDK. For more information, check the official documentation: [AWS CDK CLI Library Alpha](https://docs.aws.amazon.com/cdk/api/v2/docs/cli-lib-alpha-readme.html#cloud-assembly-directory-producer).
 
-> **Important**  
+> [!IMPORTANT]   
 > You should have a basic understanding of CDK.
 
-> **Warning**  
+> [!WARNING]
 > Checkout the issue https://github.com/aws/aws-cdk-rfcs/issues/300 to see the current status of the library: **@aws-cdk/cli-lib-alpha**
 
 ## How to Use
