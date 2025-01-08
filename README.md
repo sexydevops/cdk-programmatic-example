@@ -6,6 +6,9 @@ This project uses the **@aws-cdk/cli-lib-alpha** module to programmatically inte
 > **Important**  
 > You should have a basic understanding of CDK.
 
+> **Warning**  
+> Checkout the issue https://github.com/aws/aws-cdk-rfcs/issues/300 to see the current status of the library: **@aws-cdk/cli-lib-alpha**
+
 ## How to Use
 
 Take a look at the `api.ts` file to see how to use the library. It’s simple and straightforward! For this demo, I’ve implemented functions like:
