@@ -16,9 +16,14 @@ Take a look at the `api.ts` file to see how to use the library. It’s simple an
 - **deploy**: To deploy resources.
 - **destroy**: To delete deployed resources.
 
+## Install node modules
+```bash
+npm i
+```
+
 ## Running the Project
 
 To run the project, use the following command:
-
 ```bash
 npx ts-node api.ts
+```
